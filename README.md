@@ -22,7 +22,9 @@ import gradio as gr
 ```
 
 ## Stop words dosyasının eklenmesi
-Repoya eklenmiş olan `tr-stop-words.txt` dosyası indirilerek ekleme işlemi yapılabilir.
+- Türkçe Dolgu Sözcüklerinin (Türkçe stop wordslerin) kaldırılması için `tr-stop-words.txt` dosyası eklenerek aşağıdaki kod satırı çalıştırılmalıdır.
+
+- Repoya eklenmiş olan `tr-stop-words.txt` dosyası indirilerek ekleme işlemi yapılabilir.
 
 `tr-stop-words.txt` dosyasının kullanılacağı kod bloğu:
 ```shell
