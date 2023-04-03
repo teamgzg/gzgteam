@@ -1,5 +1,7 @@
 # Aşağılayıcı Söylemlerin Doğal Dil İşleme İle Tespiti
 
+Aşağılayıcı Söylem Tespiti için geliştirdiğimiz modelimiz, bize sağlanan veriseti içerisindeki yorumları; veri analizi, veri temizleme, veri önişleme adımlarından geçirip uygun eğitim parametreleri kullanılarak aşağılayıcı yorumları önce `OFFENSİVE(1)` ve `NOT OFFENSİVE(0)` olma durumlarına göre inceler. Daha sonrasında yorum OFFENSİVE ise `INSULT`, `SEXIST`, `PROFANITY`,  ve `RACIST` etiketlerinden hangilerine ait olduğunu tahmin etmektedir. 
+
 ## Takım adı: GZG
 Teknofest 2023 Türkçe Doğal Dil İşleme Yarışması için oluşturulmuştur.
 #AcikHack2023
