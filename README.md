@@ -1,4 +1,6 @@
-# Takım adı: GZG
+# Aşağılayıcı Söylemlerin Doğal Dil İşleme İle Tespiti
+
+## Takım adı: GZG
 Teknofest 2023 Türkçe Doğal Dil İşleme Yarışması için oluşturulmuştur.
 #AcikHack2023
 
