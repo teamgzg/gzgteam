@@ -2,7 +2,7 @@
 Teknofest 2023 Türkçe Doğal Dil İşleme Yarışması için oluşturulmuştur.
 #AcikHack2023
 
-# Gerekli Kütüphaneler
+## Gerekli Kütüphaneler
 ```shell
 import pandas as pd
 import numpy as np
@@ -13,10 +13,10 @@ import random
 import gradio as gr
 ```
 
-# Stop words dosyasının eklenmesi
-Repoya eklenmiş olan tr-stop-words.txt dosyası indirilerek ekleme işlemi yapılabilir.
+## Stop words dosyasının eklenmesi
+Repoya eklenmiş olan `tr-stop-words.txt` dosyası indirilerek ekleme işlemi yapılabilir.
 
-# Veri Temizleme İşlemi İçin Yapılan Fonksiyonun yüklenmesi
+## Veri Temizleme İşlemi İçin Yapılan Fonksiyonun yüklenmesi
 ```shell
 @tf.keras.utils.register_keras_serializable()
 def standart_custom(input_text):
@@ -40,7 +40,7 @@ def standart_custom(input_text):
  ```
    
    
-# Modelin Yüklenmesi
+## Modelin Yüklenmesi
 ```shell 
 loaded_end_to_end_model = tf.keras.models.load_model("end_to_end_model") 
 ```
