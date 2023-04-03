@@ -58,6 +58,8 @@ def standart_custom(input_text):
    
    
 ## Modelin Yüklenmesi
+- Oluşturulan modelin kullanılabilmesi için yüklenen end_to_end modelin içe aktarılmasını sağlayan kod satırı:
+
 ```shell 
 loaded_end_to_end_model = tf.keras.models.load_model("end_to_end_model") 
 ```
