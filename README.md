@@ -5,8 +5,8 @@ Teknofest 2023 Türkçe Doğal Dil İşleme Yarışması için oluşturulmuştur
 #AcikHack2023
 
 ## Takım üyeleri:
-- Gülzade Evni
-- Zeynep Baydemir
+- Gülzade Evni  **Github:** [GülzadeEvni](https://github.com/GulzadeEvni)
+- Zeynep Baydemir  **Github:** [zeynepbaydemir](https://github.com/zeynepbaydemir)
 
 > Hazırlanan end_to_end modelin çalışabilmesi için gerekli adımlar aşağıda verilmiştir.
 
