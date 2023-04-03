@@ -44,4 +44,4 @@ def standart_custom(input_text):
 ```shell 
 loaded_end_to_end_model = tf.keras.models.load_model("end_to_end_model") 
 ```
-end_to_end_model için : 
+end_to_end_model için : [Hugging Face linki](https://huggingface.co/spaces/TeamGZG/toxic-comment-classificationn)
