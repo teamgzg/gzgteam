@@ -1,7 +1,9 @@
-# gzgteam
-Teknofest 2023 Türkçe Doğal Dil İşleme #AcikHack2023
+# Takım adı: GZG
+Teknofest 2023 Türkçe Doğal Dil İşleme Yarışması için oluşturulmuştur.
+#AcikHack2023
 
 # Gerekli Kütüphaneler
+```shell
 import pandas as pd
 import numpy as np
 import tensorflow as tf
@@ -9,11 +11,13 @@ import re
 import string
 import random
 import gradio as gr
+```
 
 # Stop words dosyasının eklenmesi
 Repoya eklenmiş olan tr-stop-words.txt dosyası indirilerek ekleme işlemi yapılabilir.
 
 # Veri Temizleme İşlemi İçin Yapılan Fonksiyonun yüklenmesi
+```shell
 @tf.keras.utils.register_keras_serializable()
 def standart_custom(input_text):
     lower = tf.strings.lower(input_text, encoding='utf-8') 
@@ -33,7 +37,11 @@ def standart_custom(input_text):
     no_turkish_character = tf.strings.regex_replace(no_turkish_character, "ş", "s")
     no_turkish_character = tf.strings.regex_replace(no_turkish_character, "ü", "u")
     return no_turkish_character  
-    
+ ```
+   
+   
 # Modelin Yüklenmesi
-loaded_end_to_end_model = tf.keras.models.load_model("end_to_end_model")
+```shell 
+loaded_end_to_end_model = tf.keras.models.load_model("end_to_end_model") 
+```
 end_to_end_model için : 
