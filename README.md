@@ -59,8 +59,8 @@ def standart_custom(input_text):
 ```shell 
 loaded_end_to_end_model = tf.keras.models.load_model("end_to_end_model") 
 ```
-end_to_end_model için : [Github](https://github.com/teamgzg/gzgteam/tree/main/end_to_end_model)
-end_to_end_model için : [Hugging Face linki](https://huggingface.co/spaces/TeamGZG/toxic-comment-classificationn)
+- end_to_end_model için : [Github](https://github.com/teamgzg/gzgteam/tree/main/end_to_end_model)
+- end_to_end_model için : [Hugging Face linki](https://huggingface.co/spaces/TeamGZG/toxic-comment-classificationn)
 
 ## Gerekli Fonksiyonların Eklenmesi
 ```shell 
