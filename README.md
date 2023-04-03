@@ -68,11 +68,16 @@ loaded_end_to_end_model = tf.keras.models.load_model("end_to_end_model")
 - end_to_end_model için : [Github](https://github.com/teamgzg/gzgteam/tree/main/end_to_end_model)
 - end_to_end_model için : [Hugging Face linki](https://huggingface.co/spaces/TeamGZG/toxic-comment-classificationn)
 
-**Hugging face örnek1:**
-![other](https://user-images.githubusercontent.com/126960294/229631775-57ca552a-9901-4d70-b698-9fd2916199b8.png)
+**Hugging face örnek 1:**
 
-**Hugging face örnek2:**
-![sexist](https://user-images.githubusercontent.com/126960294/229631856-cc50c749-e818-4091-9e3d-156f2a2b27f0.png)
+![other1](https://user-images.githubusercontent.com/126960294/229633468-da15bdd9-4e8e-4f61-a2dd-c234415e96c9.png)
+
+
+**Hugging face örnek 2:**
+
+![sexist1](https://user-images.githubusercontent.com/126960294/229633253-8053399a-66bd-48cb-9891-6a07a57b4850.png)
+
+
 
 
 ## Gerekli Fonksiyonların Eklenmesi
