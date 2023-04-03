@@ -45,3 +45,6 @@ def standart_custom(input_text):
 loaded_end_to_end_model = tf.keras.models.load_model("end_to_end_model") 
 ```
 end_to_end_model için : [Hugging Face linki](https://huggingface.co/spaces/TeamGZG/toxic-comment-classificationn)
+
+## Lisans
+Yarışma süresince geliştirilmiş kodlar, veri kümeleri ve diğer bileşenleri GitHub’da erişilebilir biçimde Açık Kaynak Apache lisansı ile [Lisans dosyası](https://github.com/teamgzg/gzgteam/blob/main/LICENSE) adı altında paylaşıyoruz. 
