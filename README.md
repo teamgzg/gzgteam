@@ -68,6 +68,13 @@ loaded_end_to_end_model = tf.keras.models.load_model("end_to_end_model")
 - end_to_end_model için : [Github](https://github.com/teamgzg/gzgteam/tree/main/end_to_end_model)
 - end_to_end_model için : [Hugging Face linki](https://huggingface.co/spaces/TeamGZG/toxic-comment-classificationn)
 
+**Hugging face örnek1:**
+![other](https://user-images.githubusercontent.com/126960294/229631775-57ca552a-9901-4d70-b698-9fd2916199b8.png)
+
+**Hugging face örnek2:**
+![sexist](https://user-images.githubusercontent.com/126960294/229631856-cc50c749-e818-4091-9e3d-156f2a2b27f0.png)
+
+
 ## Gerekli Fonksiyonların Eklenmesi
 ```shell 
 def auth(username, password):
