@@ -14,7 +14,6 @@ import gradio as gr
 Repoya eklenmiş olan tr-stop-words.txt dosyası indirilerek ekleme işlemi yapılabilir.
 
 # Veri Temizleme İşlemi İçin Yapılan Fonksiyonun yüklenmesi
-# Veri temizleme işlemi
 @tf.keras.utils.register_keras_serializable()
 def standart_custom(input_text):
     lower = tf.strings.lower(input_text, encoding='utf-8') 
