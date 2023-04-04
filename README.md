@@ -33,7 +33,7 @@ import gradio as gr
 tr_stop_words = pd.read_csv("tr-stop-words.txt",header=None)
 ```
 
-Referans: [Açıkkaynak Turkish Stop Words](https://github.com/ahmetax/trstop) 
+Referans: [Açık Kaynak Turkish Stop Words](https://github.com/ahmetax/trstop) 
 
 ## Veri Temizleme İşlemi İçin Yapılan Fonksiyonun yüklenmesi
 ```shell
