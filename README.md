@@ -81,6 +81,14 @@ loaded_end_to_end_model = tf.keras.models.load_model("end_to_end_model")
 
 
 ## Gerekli Fonksiyonların Eklenmesi
+
+- `auth()` fonksiyonu, kullanıcı adı ve şifre ile giriş yapılıp yapılmayacağına karar verir.
+
+- `predict()` fonksiyonu, parametre olarak aldığı DataFrame’e gerekli etiketlemeleri yaparak geriye döndürür.
+
+- `get_file()` fonksiyonu, Gradio servisine yüklenene test verilerini indirerek  pandas dataframe objesine çevirir predict fonksiyonuna gönderir. Predict fonksiyonundan gelen pandas dataframe objesini `output_<takım_ismi>.csv` dosyasına yazar ve Gradio servisi üzerinden dosyayı paylaşır.
+
+
 ```shell 
 def auth(username, password):
     if username == "GZG" and password == "A3ZPAYGJUEWD74NR":
