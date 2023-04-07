@@ -10,6 +10,8 @@ Teknofest 2023 Türkçe Doğal Dil İşleme Yarışması için oluşturulmuştur
 - Gülzade Evni  **Github:** [GülzadeEvni](https://github.com/GulzadeEvni)
 - Zeynep Baydemir  **Github:** [zeynepbaydemir](https://github.com/zeynepbaydemir)
 
+Modelin çalışması için gerekli dosyaları [Hugging Face](https://huggingface.co/TeamGZG/toxic-comment-classification-project) hesabında da bulabilirsiniz.
+
 > Hazırlanan end_to_end modelin çalışabilmesi için gerekli adımlar aşağıda verilmiştir.
 
 ## Gerekli Kütüphaneler
