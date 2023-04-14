@@ -2,7 +2,7 @@
 
 Aşağılayıcı Söylem Tespiti için geliştirdiğimiz modelimiz, bize sağlanan veriseti içerisindeki yorumları; veri analizi, veri temizleme, veri önişleme adımlarından geçirip uygun eğitim parametreleri kullanılarak aşağılayıcı yorumları önce `OFFENSİVE(1)` ve `NOT OFFENSİVE(0)` olma durumlarına göre inceler. Daha sonrasında yorum `OFFENSİVE` ise `INSULT`, `SEXIST`, `PROFANITY`,  ve `RACIST` etiketlerinden hangilerine ait olduğunu tahmin etmektedir. Yorum, `NOT OFFENSİVE(0)` ise `OTHER` kabul eder.
 
-- Sunum dosyası için: [Sunum](https://www.canva.com/design/DAFfizWSCN0/ghuc6K9vScKCZrFHdFpjA/editutm_content=DAFfizWSCN0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- Sunum dosyası için: [Sunum](https://www.canva.com/design/DAFfizWSCN0/ghuc6-K9vScKCZrFHdFpjA/edit?utm_content=DAFfizWSCN0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Sunum dosyasına pdf olarak ulaşmak için: [Sunum pdf](https://github.com/teamgzg/gzgteam/blob/main/Teknofest_sunum_pdf.pdf)
 
 ## Takım adı: GZG
