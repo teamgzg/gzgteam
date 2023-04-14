@@ -4,6 +4,7 @@ Aşağılayıcı Söylem Tespiti için geliştirdiğimiz modelimiz, bize sağlan
 
 - Sunum dosyası için: [Sunum](https://www.canva.com/design/DAFfizWSCN0/ghuc6-K9vScKCZrFHdFpjA/edit?utm_content=DAFfizWSCN0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Sunum dosyasına pdf olarak ulaşmak için: [Sunum pdf](https://github.com/teamgzg/gzgteam/blob/main/Teknofest_sunum_pdf.pdf)
+- Youtube linki için: [Buraya Tıkla!](https://www.youtube.com/watch?v=2ic_A9c6Vh0)
 
 ## Takım adı: GZG
 Teknofest 2023 Türkçe Doğal Dil İşleme Yarışması için oluşturulmuştur.
